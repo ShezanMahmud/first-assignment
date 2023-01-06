@@ -9,12 +9,13 @@
   background-size: cover;
   width: 100%;
   height: 100vh;
+  margin-bottom: 131px;
 }
 .header-element {
   position: absolute;
   width: 525px;
-  padding-left: 60%;
-  top: 30%;
+  padding-left: 845px;
+  top: 20%;
   text-align: right;
 }
 .banner-title {
@@ -37,4 +38,39 @@
   color: #005fac;
   font-size: 18px;
   cursor: pointer;
+}
+.failures-section {
+  margin-left: 130px;
+  margin-right: 100px;
+}
+/* .image {
+  padding-left: 206px;
+} */
+.side-img {
+  display: flex;
+}
+
+.side-img-text {
+  padding-left: 26%;
+}
+.failure-title {
+  font-weight: 700;
+  line-height: 47px;
+  font-size: 40px;
+  color: #151414;
+  margin-top: 286px;
+  margin-bottom: 10px;
+}
+.failure-desc {
+  color: #444343;
+  margin-bottom: 25px;
+  /* font-weight: 400; */
+  line-height: 20px;
+  font-size: 16px;
+}
+.check-point {
+  color: #444343;
+}
+.check-point i {
+  color: lightgreen;
 }
