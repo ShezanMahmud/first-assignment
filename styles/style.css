@@ -78,6 +78,71 @@
 }
 /* previous failour section end */
 
+/* plan section start */
+.plan-section {
+  margin-top: 95px;
+  margin-left: 130px;
+  margin-right: 100px;
+}
+.next-plan {
+  margin-top: 50px;
+  background: floralwhite;
+  border-radius: 20px;
+}
+.plan-write {
+  text-align: center;
+}
+.plan-title {
+  padding: 20px;
+  font-size: 50px;
+  margin-bottom: 15px;
+}
+.plan-desc {
+  color: #6a6868;
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 40px;
+  padding: 2%;
+}
+.plan-box {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 70px;
+}
+.plan-box {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 70px;
+}
+.box-img {
+  margin-bottom: 20px;
+  font-size: 60px;
+}
+.box-title {
+  margin-bottom: 12px;
+  font-size: 25px;
+}
+.box-description {
+  color: #6a6868;
+  font-size: 17px;
+}
+.plan-box1 {
+  padding: 40px 25px;
+  background: rgba(79, 157, 166, 0.1);
+  border-radius: 5px;
+}
+.plan-box2 {
+  padding: 40px 25px;
+  background: rgba(255, 89, 89, 0.1);
+  border-radius: 5px;
+}
+.plan-box3 {
+  padding: 40px 25px;
+  background: #fff4d6;
+  border-radius: 5px;
+}
+/* plan section end */
+
 /* my plan section start */
 .my-plan {
   text-align: center;
